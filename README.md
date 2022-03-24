@@ -7,18 +7,18 @@ find the database file at:
 
 tables schema:
 
-rgb
-full season uploaded
-primary keys: plant_name, date
-
-flir
-full season uploaded
-primary keys: plant_name, date
-
-scanner3d
-one date uploaded
-    - need to download each date and aggrigate
-primary keys: plant_name, date
-
-psii
-(not added yet)
+rgb  
+full season uploaded  
+primary keys: plant_name, date  
+  
+flir  
+full season uploaded  
+primary keys: plant_name, date  
+  
+scanner3d  
+one date uploaded  
+    - need to download each date and aggrigate  
+primary keys: plant_name, date  
+  
+psii  
+(not added yet)  
