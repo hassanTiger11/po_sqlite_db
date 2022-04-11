@@ -4,6 +4,7 @@ season10*
 .ipynb*
 scanner3d
 *.db
-
+*.tar.gz
 *.csv
-
+sorghum
+*.xlsx
